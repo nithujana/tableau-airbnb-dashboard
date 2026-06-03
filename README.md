@@ -42,7 +42,7 @@ This Tableau dashboard analyzes Airbnb listing data to identify pricing trends, 
 
 View the interactive dashboard on Tableau Public:
 
-[Click Here to View Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[Click Here to View Dashboard](https://public.tableau.com/app/profile/nithujana.mahenthiranathan/viz/Airbnb_Dashboard_twbx/Dashboard1)
 
 ## Author
 
