@@ -13,7 +13,7 @@ This Tableau dashboard analyzes Airbnb listing data to identify pricing trends, 
 - Excel
 - Data Visualization
 
-## Key Insights
+## Key Insights 
 
 - Average pricing by location
 - Distribution of Airbnb properties
