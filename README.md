@@ -1,5 +1,12 @@
 # Airbnb Analytics Dashboard
 
+
+# Airbnb Analytics Dashboard
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+
 ## Project Overview
 This Tableau dashboard analyzes Airbnb listing data to identify pricing trends, property distribution, and customer review patterns.
 
@@ -18,6 +25,13 @@ This Tableau dashboard analyzes Airbnb listing data to identify pricing trends, 
 
 ![Dashboard](Dashboard%201%20(1).png)
 
+## Business Questions Answered
+
+- Which locations have the highest Airbnb prices?
+- How are listings distributed across neighborhoods?
+- What factors influence review scores?
+- Which areas show the strongest demand?
+  
 ## Skills Demonstrated
 - Data Cleaning
 - Data Visualization
