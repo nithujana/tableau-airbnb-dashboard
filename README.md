@@ -1,8 +1,6 @@
 # Airbnb Analytics Dashboard
 
 
-# Airbnb Analytics Dashboard
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
